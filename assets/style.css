@@ -1,0 +1,157 @@
+    .navbar {
+        background-color: teal;
+        padding-top: 0%;
+        padding-bottom: 0%;
+        padding-right: 3%;
+    }
+    
+    .collapse navbar-collapse #navbarSupportedContent {
+        color: white;
+        margin-top: 4%;
+    }
+    
+    .navbar-brand {
+        color: white;
+        margin-left: 3%;
+        font-size: 2em;
+    }
+    
+    .navbar-brand a:hover {
+        color: rgb(240, 214, 148);
+    }
+    
+    .nav-item {
+        color: white;
+        margin-top: 4%;
+    }
+    
+    .nav-item a:hover {
+        color: rgb(240, 214, 148);
+    }
+    
+    .nav-link {
+        color: white;
+    }
+    
+    .container {
+        margin-right: 0%;
+        margin-left: 0%;
+        margin-top: 0%;
+        background-color: lightcyan;
+        width: 100%;
+    }
+    
+    container col-xl-12 {
+        margin-right: 0%;
+        margin-left: 0%;
+        background-color: lightcyan;
+        width: 100%;
+    }
+    
+    container col-xl-10 {
+        margin-right: 8%;
+        margin-left: 5%;
+        background-color: white;
+        width: 100%;
+    }
+    
+    #data-container {
+        margin-left: 10%;
+        margin-top: 5%;
+        background-color: white;
+    }
+    
+    .col-xl-9 {
+        margin-left: 8%;
+        margin-top: 5%;
+        margin-bottom: 5%;
+        align-content: center;
+        background-color: white;
+    }
+    
+    .col-xl-6 {
+        margin-left: 8%;
+        margin-top: 5%;
+        margin-bottom: 5%;
+        align-content: center;
+        background-color: white;
+    }
+    
+    .chart {
+        margin-top: 0%;
+        margin-bottom: 10%;
+        margin-left: 5%;
+        align-content: center;
+    }
+    
+    .col-xl-4 {
+        align-content: center;
+        margin-left: 5%;
+        background-color: white;
+        margin-top: 5%;
+        height: 70%
+    }
+    
+    .double-charts {
+        margin-left: 1%;
+        margin-bottom: 10%
+    }
+    
+    .table-bordered {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        border-collapse: collapse;
+        margin-top: 0;
+        margin-left: 10%;
+        background-color: white;
+        width: 90%
+    }
+    
+    #headers {
+        background-color: teal;
+    }
+    
+    #tbody:nth-child(even) {
+        background-color: #f2f2f2;
+    }
+    
+    #tbody:hover {
+        background-color: #ddd;
+    }
+    
+    header {
+        margin-top: 4%;
+        margin-left: 4%;
+        margin-bottom: 5%;
+        display: block;
+    }
+    
+    #header-data {
+        margin-top: 4%;
+        margin-left: 10%;
+        margin-bottom: 1%;
+        display: block;
+    }
+    
+    h1 {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 2em;
+        color: teal;
+        font-weight: bold
+    }
+    
+    h2 {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 1.5em;
+        margin-top: 1em;
+        color: teal;
+    }
+    
+    p {
+        margin-left: 11%;
+        margin-right: 9%;
+        margin-top: 3%;
+    }
+    
+    #p-data {
+        margin-left 10%;
+    }
