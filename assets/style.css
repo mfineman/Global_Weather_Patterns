@@ -16,7 +16,7 @@
         font-size: 2em;
     }
     
-    .navbar-brand a:hover {
+    brand-hover a:hover {
         color: rgb(240, 214, 148);
     }
     
@@ -75,6 +75,10 @@
         margin-bottom: 5%;
         align-content: center;
         background-color: white;
+    }
+    
+    .square img {
+        margin-left: 19%;
     }
     
     .chart {
@@ -136,7 +140,7 @@
         font-family: Verdana, Geneva, Tahoma, sans-serif;
         font-size: 2em;
         color: teal;
-        font-weight: bold
+        font-weight: bold;
     }
     
     h2 {
@@ -147,8 +151,8 @@
     }
     
     p {
-        margin-left: 11%;
-        margin-right: 9%;
+        margin-left: 5%;
+        margin-right: 5%;
         margin-top: 3%;
     }
     
